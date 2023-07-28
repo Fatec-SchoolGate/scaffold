@@ -1,0 +1,1 @@
+Repository where we will have all the ideas and configuration scripts for the project
